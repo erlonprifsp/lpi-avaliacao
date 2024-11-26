@@ -1,6 +1,30 @@
 # D3LPI - Avaliação prática
 
-# Enunciado da atividade
+Projeto de avaliação da disciplina de **Linguagem de Programação para iOS** da Especialização em Sistemas para Dispositivos Móveis do Instituto Federal de São Paulo (IFSP) - Câmpus São Carlos.
+
+---
+
+## Dados do aluno
+
+Aluno: **Érlon Pereira Rodrigues**
+
+Matrícula: SC304114X
+
+Curso: Especialização em Desenvolvimento de Sistemas para Dispositivos Móveis
+
+Ano/Perído letivo: 2024/2
+
+Turma Virtual: POS.01043
+
+Disciplina: **Linguagem de Programação para iOS (D3LPI)**
+
+Professor: Carlos José de Almeida Pereira
+
+Repositório: [https://github.com/erlonprifsp/lpi-avaliacao](https://github.com/erlonprifsp/lpi-avaliacao)
+
+---
+
+## Enunciado da atividade avaliativa
 
 Escreva um programa em Swift que realize o CRUD de dados de pessoas (nome, email, celular e idade).
 O programa deverá apresentar um menu principal, com as seguintes opções:
@@ -35,11 +59,26 @@ Escolha uma opção:
 1
 Digite o nome da pessoa:
 Asdrubal
-Digite o email da pessoa: [asd@gmail.com](mailto:asd@gmail.com) Digite o telefone da pessoa:
+Digite o email da pessoa: asd@gmail.com
+Digite o telefone da pessoa:
 991239876
 Digite a idade da pessoa:
 32
 Pessoa adicionada com sucesso!
+```
+
+---
+
+## Resolução da atividade avaliativa
+
+A resolução encontra-se no arquivo `resolucao.swift` do presente repositório.
+
+Comando para baixar e executar localmente a resolução da atividade avaliativa:
+
+```bash
+git clone https://github.com/erlonprifsp/lpi-avaliacao.git
+cd lpi-avaliacao
+swift resolucao.swift
 ```
 
 ---
