@@ -59,7 +59,8 @@ Escolha uma opção:
 1
 Digite o nome da pessoa:
 Asdrubal
-Digite o email da pessoa: asd@gmail.com
+Digite o email da pessoa:
+asd@gmail.com
 Digite o telefone da pessoa:
 991239876
 Digite a idade da pessoa:
@@ -80,5 +81,7 @@ git clone https://github.com/erlonprifsp/lpi-avaliacao.git
 cd lpi-avaliacao
 swift resolucao.swift
 ```
+
+Outra opção para visualizar a resolução dessa atividade avaliativa é acessar o site [https://www.tutorialspoint.com/compile_swift_online.php](https://www.tutorialspoint.com/compile_swift_online.php), copiar o conteúdo do arquivo `resolucao.swift`, disponível no presente repositório Git, para o editor web desse site e clicar no botão `Execute`.
 
 ---
