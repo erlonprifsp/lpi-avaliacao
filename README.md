@@ -85,3 +85,19 @@ swift resolucao.swift
 Outra opção para visualizar a resolução dessa atividade avaliativa é acessar o site [https://www.tutorialspoint.com/compile_swift_online.php](https://www.tutorialspoint.com/compile_swift_online.php), copiar o conteúdo do arquivo `resolucao.swift`, disponível no presente repositório Git, para o editor web desse site e clicar no botão `Execute`.
 
 ---
+
+## Vídeos com demonstração da resolução da atividade avaliativa
+
+Incluir, exibir pessoa específica
+
+[ee61ae5a-5b64-4146-8cf5-d3e6d9c32cc7_UHiRWrTb.webm](https://github.com/user-attachments/assets/f5dcc3d5-b580-432a-a0a0-980314a2dde0)
+
+Incluir e apagar pessoa específica
+
+[92195211-0b0f-4ea4-9d72-09d510379990.webm](https://github.com/user-attachments/assets/fe24d0c6-caaa-4408-8a73-1eb190b2e873)
+
+Informar opção inválida, exibir todas pessoas e finalizar programa
+
+[2b5e25d8-77a8-4f13-a137-e25239ddc162](https://github.com/user-attachments/assets/2b5e25d8-77a8-4f13-a137-e25239ddc162)
+
+---
